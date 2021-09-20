@@ -31,6 +31,13 @@ Short Link für das Repo: https://bit.ly/vue-mit-luis
 
 Datei findet sich hier: [die Datei](./challenge/setup.html)
 
+### Aufgabe
+
+Eine Überschrift, zwei Text Felder und eine Checkbox. Die Eingabe aus den Text-Feldern soll im Titel dargestellt werden. Die Checkbox ändert die Art der Überschrift (Hallo Herr [nachname] oder Moin [vorname]).
+![challenge image](./challenge.png)
+
+### Lösung
+
 Lösungen mit Composition und Options API finden sich in [HIER](./challenge/composition.html) und [HIER](./challenge/options.html)
 
 ## Reactivity
