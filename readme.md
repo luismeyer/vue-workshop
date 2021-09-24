@@ -23,7 +23,8 @@ Short Link für das Repo: https://bit.ly/vue-mit-luis
 ### Step 4
 
 1. Headline als Prop in den counter reichen
-2. Custom event emitten
+2. Watch für den count implementieren
+3. Custom event emitten
 
 ## Challenge
 
